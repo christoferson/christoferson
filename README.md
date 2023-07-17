@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Cloud related technologies implemented using AWS managed services.
+-- Serverless (Lambda, Api Gateway)
+-- Container (ECS)
+
 <!--
 **christoferson/christoferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
