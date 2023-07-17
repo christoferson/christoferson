@@ -1,9 +1,14 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Cloud related technologies implemented using AWS managed services.
--- Serverless (Lambda, Api Gateway)
--- Container (ECS)
+ 
+  - Serverless (Lambda, Api Gateway)
 
+  - Container (ECS)
+
+- 👯 I’m looking to collaborate on anything Java or AWS related projects.
+
+  
 <!--
 **christoferson/christoferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
