@@ -12,6 +12,8 @@
 
 ⚡ [Github Page](https://christoferson.github.io/content.html)
 
+バックエンド | Java | AWS クラウド | サーバーレス | マイクロサービス
+
 <!--
 **christoferson/christoferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
