@@ -10,7 +10,7 @@
 
 <hr />
 
-⚡ [Github Page](https://christoferson.github.io/content.html)
+⚡ [Github Page](https://christoferson.github.io) | 👯 [LinkedIn](https://www.linkedin.com/in/christofersonchua)
 
 バックエンド | Java | AWS クラウド | サーバーレス | マイクロサービス
 
