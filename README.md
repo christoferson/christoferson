@@ -6,7 +6,9 @@
 
   - Container (ECS)
 
-- 👯 I’m looking to collaborate on anything Java or AWS related projects.
+  - Generative AI (Bedrock) 
+
+- 👯 I’m looking to collaborate on anything Java, AWS, Generative AI related projects.
 
 <hr />
 
