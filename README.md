@@ -6,7 +6,9 @@
 
   - Container (ECS)
 
-  - Generative AI (Bedrock) 
+  - Generative AI (Bedrock)
+
+  - Data Engineering / Machine Learning
 
 - 👯 I’m looking to collaborate on anything Java, AWS, Generative AI related projects.
 
