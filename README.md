@@ -1,6 +1,6 @@
-### Hi there, I'm Christoferson 👋
+### Hi there, I'm Christoferson
 
-🚀 **Cloud Architect | Generative AI Engineer | AI Agents & LLM Applications**
+**Cloud Architect | Generative AI Engineer | AI Agents & LLM Applications**
 
 I design and build scalable, cloud-native architectures on AWS, with a strong focus on **Generative AI**, **AI Agents**, and **LLM-powered applications**.  
 With 20+ years in software development and deep hands-on AWS expertise, I specialize in combining **cloud architecture best practices** with modern **Python-based AI systems**, including RAG pipelines, agentic workflows, and full-stack LLM apps.
@@ -9,7 +9,7 @@ I enjoy transforming complex technical challenges into production-ready, reliabl
 
 ---
 
-## 🌟 Core Focus Areas
+## Core Focus Areas
 
 ### ☁️ **Cloud Architecture (AWS)**
 - Serverless: Lambda, API Gateway, Event-driven workflows  
@@ -38,34 +38,41 @@ A 13-year background in Java, including work with Spring Boot, Quarkus, and micr
 
 ---
 
-## 👯 Collaboration Interests
+## Collaboration Interests
 
 I’m open to collaborating on:
 
-- Generative AI applications & agentic systems  
-- AWS Bedrock solutions (Agents, LLMs, RAG, pipelines)  
-- Streamlit/Chainlit frontends for AI  
-- Cloud-native / serverless architectures  
-- Python-based LLM workflows  
+##### AI & Machine Learning
+- Generative AI applications & multi-agent systems
+- Machine Learning projects (classification, regression, NLP, computer vision)
+- LLM Fine-tuning, Transfer Learning, LoRA, Knowledge Distillation & model optimization
+- Python-based LLM workflows and AI pipelines
+
+##### AWS & Cloud Solutions
+- AWS Bedrock ecosystems (Agents, Knowledge Bases, RAG pipelines, model orchestration)
+- Bedrock AgentCore implementations and custom agent frameworks
+- Cloud-native & serverless architectures (Lambda, ECS, event-driven systems)
+- MLOps and AI model deployment on AWS
+
 
 ---
 
-## 🌐 Connect with Me
+### Connect with Me
 
-⚡ **GitHub Page:** https://christoferson.github.io  
-👔 **LinkedIn:** https://www.linkedin.com/in/christofersonchua  
+**GitHub Page:** https://christoferson.github.io  
+**LinkedIn:** https://www.linkedin.com/in/christofersonchua  
 
 ---
 
-# 🧠 Featured AI & Generative AI Projects
+## Featured AI & Generative AI Projects
 
-### **🔹 AI Agents / Agentic Workflows**
+#### **AI Agents / Agentic Workflows**
 - **streamlit-strands-agent** — Streamlit + AWS Strands Agents  
 - **mcp_demo** — MCP examples, tool development, integrations  
 - **aws-bedrock-agentcore** — Utilities for Bedrock Agents  
 - **aws-strands-agents** — Custom multi-agent orchestration  
 
-### **🔹 AWS Bedrock Generative AI**
+#### **AWS Bedrock Generative AI**
 - **aws-bedrock** — General demos & building blocks  
 - **chainlit-bedrock-base** — Foundation for chat apps  
 - **chainlit-bedrock-agent** — Bedrock Agents via Chainlit  
@@ -74,12 +81,12 @@ I’m open to collaborating on:
 - **streamlit-bedrock-llm** — Streamlit + Bedrock LLM  
 - **react-chat-avatar-voice** — Frontend: Avatar + Voice + Bedrock  
 
-### **🔹 LangChain & Python AI**
+#### **LangChain & Python AI**
 - **langchain-python** — LangChain paradigms and patterns
 
 ---
 
-# 🎨 Streamlit & UI Frameworks
+### Streamlit & UI Frameworks
 
 - Streamlit demonstrations and UI prototypes for AI apps  
 - Custom Streamlit components  
@@ -87,7 +94,7 @@ I’m open to collaborating on:
 
 ---
 
-# ☁️ AWS Cloud Projects (Selected)
+### AWS Cloud Projects (Selected)
 
 - Extensive CloudFormation template collections  
 - Lambda (Python, Java, Node.js) and best practices  
@@ -99,7 +106,7 @@ I’m open to collaborating on:
 
 ---
 
-# 🐍 Python Projects
+### Python Projects
 
 - FastAPI backend examples  
 - ML notebooks and demos  
@@ -107,7 +114,7 @@ I’m open to collaborating on:
 
 ---
 
-# 📊 Data Science & ML
+### Data Science & ML
 
 - Scikit-learn demos and experiments  
 - Kaggle notebooks  
@@ -116,7 +123,7 @@ I’m open to collaborating on:
 
 ---
 
-# 🔧 Other Projects
+### Other Projects
 
 - Docker templates  
 - GitHub Actions (Maven + general CI)  
@@ -125,15 +132,22 @@ I’m open to collaborating on:
 
 ---
 
-# 🚀 Areas I'm Deepening
+## Areas I'm Deepening
 
-- Multi-agent orchestration (Strands Agents, custom pipelines)  
-- Bedrock Agents & Knowledge Bases  
-- RAG architectures (Python-first)  
-- Streamlit LLM applications  
-- LLMOps patterns  
-- Advanced AWS cloud-native designs  
-- High-performance serverless systems  
+#### AI & Agent Systems
+- Multi-agent orchestration (Strands Agents, custom pipelines)
+- Bedrock Agents & Knowledge Bases integration
+- Bedrock AgentCore development and customization
+
+#### Machine Learning & Model Optimization
+- Advanced Machine Learning techniques and algorithms
+- LLM Fine-tuning, Transfer Learning, LoRA, Knowledge Distillation
+- Model optimization and performance tuning
+
+#### Cloud Architecture & Performance
+- Advanced AWS cloud-native design patterns
+- High-performance serverless systems and optimization
+- Scalable AI infrastructure and deployment strategies
 
 ---
 
