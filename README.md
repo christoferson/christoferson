@@ -1,34 +1,140 @@
-### Hi there 👋
+### Hi there, I'm Christoferson 👋
 
-- 🌱 I’m currently learning Cloud related technologies implemented using AWS managed services.
- 
-  - Serverless (Lambda, Api Gateway)
+🚀 **Cloud Architect | Generative AI Engineer | AI Agents & LLM Applications**
 
-  - Container (ECS)
+I design and build scalable, cloud-native architectures on AWS, with a strong focus on **Generative AI**, **AI Agents**, and **LLM-powered applications**.  
+With 20+ years in software development and deep hands-on AWS expertise, I specialize in combining **cloud architecture best practices** with modern **Python-based AI systems**, including RAG pipelines, agentic workflows, and full-stack LLM apps.
 
-  - Generative AI (Bedrock)
+I enjoy transforming complex technical challenges into production-ready, reliable, and efficient cloud–AI solutions.
 
-  - Data Engineering / Machine Learning
+---
 
-- 👯 I’m looking to collaborate on anything Java, AWS, Generative AI related projects.
+## 🌟 Core Focus Areas
 
-<hr />
+### ☁️ **Cloud Architecture (AWS)**
+- Serverless: Lambda, API Gateway, Event-driven workflows  
+- Containerized: ECS, Fargate  
+- Secure, scalable, well-architected workloads  
+- CloudFormation, IaC, CI/CD pipelines  
+- Identity, security, networking, distributed systems
 
-⚡ [Github Page](https://christoferson.github.io) | 👯 [LinkedIn](https://www.linkedin.com/in/christofersonchua)
+### 🤖 **Generative AI & Agentic AI**
+- AWS Bedrock (LLMs, Agents, Knowledge Bases)  
+- Agentic workflows (Strands Agents, custom orchestrators)  
+- MCP (Model Context Protocol) integrations  
+- RAG pipelines with Kendra / Knowledge Bases / LangChain  
+- LLM applications with Streamlit, Chainlit, and React  
+- Multi-agent systems, tool-use, retrieval, orchestration
 
-バックエンド | Java | AWS クラウド | サーバーレス | マイクロサービス
+### 🐍 **Python Development**
+- AI/ML application development  
+- Streamlit LLM apps  
+- FastAPI services  
+- Bedrock SDK, LangChain, boto3  
+- MLOps / data pipelines (where applicable)
 
-<!--
-**christoferson/christoferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧱 **Java backend engineering**
+A 13-year background in Java, including work with Spring Boot, Quarkus, and microservices, now complementing my focus on cloud architecture and AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Collaboration Interests
+
+I’m open to collaborating on:
+
+- Generative AI applications & agentic systems  
+- AWS Bedrock solutions (Agents, LLMs, RAG, pipelines)  
+- Streamlit/Chainlit frontends for AI  
+- Cloud-native / serverless architectures  
+- Python-based LLM workflows  
+
+---
+
+## 🌐 Connect with Me
+
+⚡ **GitHub Page:** https://christoferson.github.io  
+👔 **LinkedIn:** https://www.linkedin.com/in/christofersonchua  
+
+---
+
+# 🧠 Featured AI & Generative AI Projects
+
+### **🔹 AI Agents / Agentic Workflows**
+- **streamlit-strands-agent** — Streamlit + AWS Strands Agents  
+- **mcp_demo** — MCP examples, tool development, integrations  
+- **aws-bedrock-agentcore** — Utilities for Bedrock Agents  
+- **aws-strands-agents** — Custom multi-agent orchestration  
+
+### **🔹 AWS Bedrock Generative AI**
+- **aws-bedrock** — General demos & building blocks  
+- **chainlit-bedrock-base** — Foundation for chat apps  
+- **chainlit-bedrock-agent** — Bedrock Agents via Chainlit  
+- **chainlit-bedrock-kb / kb-lc** — Knowledge Base + LangChain  
+- **chainlit-bedrock-sdxl** — Stable Diffusion XL  
+- **streamlit-bedrock-llm** — Streamlit + Bedrock LLM  
+- **react-chat-avatar-voice** — Frontend: Avatar + Voice + Bedrock  
+
+### **🔹 LangChain & Python AI**
+- **langchain-python** — LangChain paradigms and patterns
+
+---
+
+# 🎨 Streamlit & UI Frameworks
+
+- Streamlit demonstrations and UI prototypes for AI apps  
+- Custom Streamlit components  
+- Chainlit examples for CI-chat style UIs  
+
+---
+
+# ☁️ AWS Cloud Projects (Selected)
+
+- Extensive CloudFormation template collections  
+- Lambda (Python, Java, Node.js) and best practices  
+- ECS & containerized workloads  
+- Cognito authentication flows  
+- SDK examples (Python, JavaScript, Java)  
+- X-Ray, Batch, CodeArtifact  
+- SAM templates and Lambda Layers  
+
+---
+
+# 🐍 Python Projects
+
+- FastAPI backend examples  
+- ML notebooks and demos  
+- Python best practices, experiments, utilities  
+
+---
+
+# 📊 Data Science & ML
+
+- Scikit-learn demos and experiments  
+- Kaggle notebooks  
+- Data engineering patterns  
+- Foundations for ML pipelines  
+
+---
+
+# 🔧 Other Projects
+
+- Docker templates  
+- GitHub Actions (Maven + general CI)  
+- three.js visualizations  
+- Tailwind CSS demos  
+
+---
+
+# 🚀 Areas I'm Deepening
+
+- Multi-agent orchestration (Strands Agents, custom pipelines)  
+- Bedrock Agents & Knowledge Bases  
+- RAG architectures (Python-first)  
+- Streamlit LLM applications  
+- LLMOps patterns  
+- Advanced AWS cloud-native designs  
+- High-performance serverless systems  
+
+---
+
+### AWS クラウド | 生成AI | エージェントAI | サーバーレス | Python | マイクロサービス
