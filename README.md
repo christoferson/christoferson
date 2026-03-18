@@ -133,11 +133,11 @@ A 13-year background in Java, including work with Spring Boot, Quarkus, and micr
 
 ---
 
-## Connect with Me
-
-GitHub Page: https://christoferson.github.io  
-LinkedIn: https://www.linkedin.com/in/christofersonchua  
-
+### Connect with Me
+- GitHub Page: https://christoferson.github.io
+- LinkedIn: https://www.linkedin.com/in/christofersonchua
+- Credly: https://www.credly.com/users/christoferson-chua/badges#credly
+- SkillBuilder: https://skillsprofile.skillbuilder.aws/user/christoferson
 ---
 
 AWS クラウド | 生成AI | エージェントAI | サーバーレス | Python | マイクロサービス
